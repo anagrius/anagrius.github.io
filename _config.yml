@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Thomas Anagrius
+email: thomas@anagri.us
+description: >
+  A blog about technology and programming.
+  Software Craftmanship, Functional Programming, Teamwork,
+  Developer Culture, and other software related topics.
+baseurl: ""
+url: "http://anagri.us"
+twitter_username: anagrium
+github_username:  anagrius
+linkedin_username: anagrius
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
